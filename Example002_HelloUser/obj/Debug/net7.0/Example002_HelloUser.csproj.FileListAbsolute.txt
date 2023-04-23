@@ -1,0 +1,15 @@
+E:\GitTest\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.exe
+E:\GitTest\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.deps.json
+E:\GitTest\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.runtimeconfig.json
+E:\GitTest\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.dll
+E:\GitTest\Examples\Example002_HelloUser\bin\Debug\net7.0\Example002_HelloUser.pdb
+E:\GitTest\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.csproj.AssemblyReference.cache
+E:\GitTest\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitTest\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.AssemblyInfoInputs.cache
+E:\GitTest\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.AssemblyInfo.cs
+E:\GitTest\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+E:\GitTest\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.dll
+E:\GitTest\Examples\Example002_HelloUser\obj\Debug\net7.0\refint\Example002_HelloUser.dll
+E:\GitTest\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.pdb
+E:\GitTest\Examples\Example002_HelloUser\obj\Debug\net7.0\Example002_HelloUser.genruntimeconfig.cache
+E:\GitTest\Examples\Example002_HelloUser\obj\Debug\net7.0\ref\Example002_HelloUser.dll

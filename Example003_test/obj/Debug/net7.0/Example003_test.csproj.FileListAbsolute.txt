@@ -1,0 +1,15 @@
+E:\GitTest\Examples\Example003_test\bin\Debug\net7.0\Example003_test.exe
+E:\GitTest\Examples\Example003_test\bin\Debug\net7.0\Example003_test.deps.json
+E:\GitTest\Examples\Example003_test\bin\Debug\net7.0\Example003_test.runtimeconfig.json
+E:\GitTest\Examples\Example003_test\bin\Debug\net7.0\Example003_test.dll
+E:\GitTest\Examples\Example003_test\bin\Debug\net7.0\Example003_test.pdb
+E:\GitTest\Examples\Example003_test\obj\Debug\net7.0\Example003_test.csproj.AssemblyReference.cache
+E:\GitTest\Examples\Example003_test\obj\Debug\net7.0\Example003_test.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitTest\Examples\Example003_test\obj\Debug\net7.0\Example003_test.AssemblyInfoInputs.cache
+E:\GitTest\Examples\Example003_test\obj\Debug\net7.0\Example003_test.AssemblyInfo.cs
+E:\GitTest\Examples\Example003_test\obj\Debug\net7.0\Example003_test.csproj.CoreCompileInputs.cache
+E:\GitTest\Examples\Example003_test\obj\Debug\net7.0\Example003_test.dll
+E:\GitTest\Examples\Example003_test\obj\Debug\net7.0\refint\Example003_test.dll
+E:\GitTest\Examples\Example003_test\obj\Debug\net7.0\Example003_test.pdb
+E:\GitTest\Examples\Example003_test\obj\Debug\net7.0\Example003_test.genruntimeconfig.cache
+E:\GitTest\Examples\Example003_test\obj\Debug\net7.0\ref\Example003_test.dll
